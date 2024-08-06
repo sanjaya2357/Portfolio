@@ -70,6 +70,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 =======
-RestaurantSystem - 
-Developed a menu board display and configuration system using ReactJS
+The portfolio site is developed using React and features media queries to ensure a responsive design for both desktop and mobile devices.
 >>>>>>> 19d110e60cf544919cb816a213664862aaddbffa
