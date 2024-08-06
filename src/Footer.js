@@ -28,7 +28,7 @@ class Footer extends Component {
             <div style={{ display: "flex", justifyContent: "space-around", alignItems: "center" }}>
               <a href="https://github.com/sanjaya2357" target='_blank' ><img style={{ height: "8vh" }} src="images\github-96.png" /></a>
               <a><img onClick={this.handleSendMail} style={{ height: "8vh" }} src="images\mail-96.png" /></a>
-              <a href="https://www.linkedin.com/in/sanjaya-rh-a4831618b" target='_blank'><img style={{ height: "8vh" }} src="images\linkedin-96.png" /></a>
+              <a href="https://www.linkedin.com/in/sanjaya-rh-a4831618b" target='_blank'><img style={{ height: "9vh" }} src="images\linkedin-96.png" /></a>
             </div>
           </div>
         </div>
