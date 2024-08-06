@@ -93,8 +93,7 @@ class Subject extends Component {
                         >
                             <div className="subject-title">About me</div>
                             <p style={{ marginTop: "2vh" }}>
-                                I am a web developer and programmer from Bangalore, India, who is passionate about programming and building web apps. I hold a Bachelor's in Mechanical Engineering. I have 1.7 years of experience in designing and developing efficient web apps, and I am currently working at Dheeyantra, Bangalore. I code mostly using JavaScript and Java, and I use frameworks such as React and Spring-Boot. I am familiar with SQL and NoSQL databases such as MySql and Cassandra. In addition to my knowledge base, I actively seek out new technologies and stay up-to-date on industry trends and advancements. This has allowed me to stay ahead of the curve and deliver exceptional work to all of my employers.
-                            </p>
+                            I am a passionate web developer and programmer based in Bangalore, India, with a Bachelor's degree in Mechanical Engineering. I have 1.7 years of experience in designing and developing efficient web applications and am currently employed at Dheeyantra in Bangalore. My primary coding languages are JavaScript and Java, and I work with frameworks like React and Spring Boot. I also have experience with SQL and NoSQL databases, including MySQL and Cassandra. Committed to continuous learning, I actively explore new technologies and stay informed about industry trends, which enables me to provide outstanding results to my employers.                            </p>
                             <div>
                                 <h4>Skills</h4>
                                 <ul>
@@ -163,7 +162,7 @@ class Subject extends Component {
                                     <h2>2.Sticky Notes</h2>
                                     <div className="project-description">
                                         <ul>
-                                            <li>No database is incorporated in this project,</li>
+                                            <li>No database is incorporated in this project.</li>
                                             <li>It is designed to handle CRUD operations.</li>
                                         </ul>
                                     </div>
