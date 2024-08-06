@@ -93,7 +93,7 @@ class Subject extends Component {
                         >
                             <div className="subject-title">About me</div>
                             <p style={{ marginTop: "2vh" }}>
-                                I am a web developer and programmer from Bangalore, India, who is passionate about programming and building web apps. I hold a Bachelor's Mechanical Engineering. I have 1.7 years of experience in designing and developing efficient web apps, and I am currently working at Dheeyantra, Bangalore. I code mostly using JavaScript and Java, and I use frameworks such as React and Spring-Boot. I am familiar with SQL and NoSQL databases such as MySql and Cassandra. In addition to my knowledge base, I actively seek out new technologies and stay up-to-date on industry trends and advancements. This has allowed me to stay ahead of the curve and deliver exceptional work to all of my employers.
+                                I am a web developer and programmer from Bangalore, India, who is passionate about programming and building web apps. I hold a Bachelor's in Mechanical Engineering. I have 1.7 years of experience in designing and developing efficient web apps, and I am currently working at Dheeyantra, Bangalore. I code mostly using JavaScript and Java, and I use frameworks such as React and Spring-Boot. I am familiar with SQL and NoSQL databases such as MySql and Cassandra. In addition to my knowledge base, I actively seek out new technologies and stay up-to-date on industry trends and advancements. This has allowed me to stay ahead of the curve and deliver exceptional work to all of my employers.
                             </p>
                             <div>
                                 <h4>Skills</h4>
