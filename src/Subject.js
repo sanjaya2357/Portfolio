@@ -93,15 +93,16 @@ class Subject extends Component {
                         >
                             <div className="subject-title">About me</div>
                             <p style={{ marginTop: "2vh" }}>
-                            I am a passionate web developer and programmer based in Bangalore, India, with a Bachelor's degree in Mechanical Engineering. I have 1.7 years of experience in designing and developing efficient web applications and am currently employed at Dheeyantra in Bangalore. My primary coding languages are JavaScript and Java, and I work with frameworks like React and Spring Boot. I also have experience with SQL and NoSQL databases, including MySQL and Cassandra. Committed to continuous learning, I actively explore new technologies and stay informed about industry trends, which enables me to provide outstanding results to my employers.                            </p>
+                                I am a passionate web developer and programmer based in Bangalore, India, with a Bachelor's degree in Mechanical Engineering. I have 2+ years of experience in designing and developing efficient web applications and am currently employed at Dheeyantra in Bangalore. My primary coding languages are JavaScript and Java, and I work with frameworks like React and Spring Boot. I also have experience with SQL and NoSQL databases, including MySQL and Cassandra. Committed to continuous learning, I actively explore new technologies and stay informed about industry trends, which enables me to provide outstanding results to my employers.                            </p>
                             <div>
-                                <h4>Skills</h4>
+                                <h4>Skills - Profile</h4>
                                 <ul>
-                                    <li>JavaScript: ECMAScript6, Promises, Async/Await, DOM manipulation.</li>
-                                    <li>React.js: JSX, Components, Hooks, Fetching data from APIs, JSON Server, Error Handling.</li>
-                                    <li>HTML/CSS and SQL functions, Joins, Normalization, Subqueries.</li>
-                                    <li>jQuery: DOM Manipulation, event handling, AJAX for asynchronous communication with the server.</li>
-                                    <li>Java: OOP Concepts, Exception Handling, Collections, Threads, SpringBoot, Hibernate.</li>
+                                    <li>Frontend: ReactJS, HTML5, CSS3, JavaScript, jQuery, Redux</li>
+                                    <li>Backend: Java, Spring Boot, RESTful APIs, Microservices, Spring Security</li>
+                                    <li>Database: MySQL, Cassandra, JPA/Hibernate</li>
+                                    <li>Version Control: Git, GitLab</li>
+                                    <li>DevOps: Docker, Kubernetes</li>
+                                    <li>Cloud: Azure DevOps</li>
                                 </ul>
                             </div>
 
