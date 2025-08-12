@@ -101,7 +101,7 @@ class Subject extends Component {
                                     <li>Backend: Java, Spring Boot, RESTful APIs, Microservices, Spring Security</li>
                                     <li>Database: MySQL, Cassandra, JPA/Hibernate</li>
                                     <li>Version Control: Git, GitLab</li>
-                                    <li>DevOps: Docker, Kubernetes</li>
+                                    <li>DevOps: Docker</li>
                                     <li>Cloud: Azure DevOps</li>
                                 </ul>
                             </div>
